@@ -1,4 +1,4 @@
-# 🚀 About
+# 👩‍💻 About
 
 - 📍 São Paulo, SP - Brasil 🇧🇷  
 - 🎓 System Analytics and Development - 2020.  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 DAta Stack
+## 🚀 Data Stack
 
 ### Cloud 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -18,7 +18,7 @@
 ![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
 ### Progamming Languages
-![Pyhton](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -41,8 +41,6 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ---
+## Get to know me
 
 
-## ☕️
-
-<img src="https://user-images.githubusercontent.com/46358256/110215836-f7a9e500-7e8f-11eb-8746-b7e27ee04881.png" alt="Laptop and coffee" width="400"/>
