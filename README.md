@@ -41,6 +41,6 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ---
-## Get to know me
+## Certifications
 
-
+![dbt Fundamentals](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/142918723)
