@@ -70,8 +70,7 @@ Engenheira de dados com foco em arquitetura de IA, sistemas RAG e agentes inteli
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gyovana-prado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyovana-prado&layout=compact&langs_count=8&theme=dracula"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=gyovana-prado&theme=dracula&locale=pt_BR)
 
 </div>
 
@@ -79,6 +78,12 @@ Engenheira de dados com foco em arquitetura de IA, sistemas RAG e agentes inteli
 
 ## 🏅 Certifications
 
-[![Introduction to Agent Skills](https://img.shields.io/badge/Anthropic-Introduction_to_Agent_Skills-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/6e9uv8qontgr)
-[![Introduction to MCP](https://img.shields.io/badge/Anthropic-Introduction_to_MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/6hsjbernum52)
-![dbt Fundamentals](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/142918723)
+<div align="center">
+
+| | Certificação | Emissor | Verificar |
+|---|---|---|---|
+| ![Anthropic](https://img.shields.io/badge/-191919?style=flat-square&logo=anthropic&logoColor=white) | Introduction to Agent Skills | Anthropic | [🔗](https://verify.skilljar.com/c/6e9uv8qontgr) |
+| ![Anthropic](https://img.shields.io/badge/-191919?style=flat-square&logo=anthropic&logoColor=white) | Introduction to MCP | Anthropic | [🔗](https://verify.skilljar.com/c/6hsjbernum52) |
+| ![dbt](https://img.shields.io/badge/-FF694B?style=flat-square&logo=dbt&logoColor=white) | dbt Fundamentals | dbt Labs | [🔗](https://www.credential.net/profile/gyovanaprado) |
+
+</div>
